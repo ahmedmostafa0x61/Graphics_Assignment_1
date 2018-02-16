@@ -108,10 +108,8 @@ def Draw ():
     glVertex2d(-0.06, 0.45)
     glEnd()
 
-
     glFlush()
-
-
+#---------- Program -------------------------------------------
 glutInit()
 glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB)
 glutInitWindowSize(600,600)
