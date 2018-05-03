@@ -1,2 +1,1 @@
-# Graphics_Assignment_1
-Wall-E
+# Graphics_AssignmentS
